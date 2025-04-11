@@ -1,0 +1,67 @@
+{
+	"items": [
+		{
+			"id": 1,
+			"title": "Vintage Leica M3 Camera",
+			"description": "Classic vintage camera in excellent condition",
+			"image": "https://i.ibb.co/w8Dq0Qn/Bid1-min.png",
+			"currentBidPrice": 2850,
+			"bidsCount": 15,
+			"timeLeft": "2 Days left"
+		},
+		{
+			"id": 2,
+			"title": "1965 Gibson SG Standard Electric Guitar",
+			"description": "Rare vintage electric guitar in great condition",
+			"image": "https://i.ibb.co/sdS84ZzL/Bid2-min.png",
+			"currentBidPrice": 2850,
+			"bidsCount": 23,
+			"timeLeft": "2 Days left"
+		},
+		{
+			"id": 3,
+			"title": "Original Apple Macintosh 128K (1984)",
+			"description": "Original 1984 Macintosh computer, collector's item",
+			"image": "https://i.ibb.co/bjqnv7NL/Bid3-min.png",
+			"currentBidPrice": 2850,
+			"bidsCount": 10,
+			"timeLeft": "2 Days left"
+		},
+		{
+			"id": 4,
+			"title": "Rolex Submariner 16610",
+			"description": "Luxury dive watch in excellent condition",
+			"image": "https://i.ibb.co/Zp5QDF2B/Bid4-min.png",
+			"currentBidPrice": 2850,
+			"bidsCount": 18,
+			"timeLeft": "2 Days left"
+		},
+		{
+			"id": 5,
+			"title": "First Edition The Great Gatsby by F. Scott Fitzgerald",
+			"description": "Rare first edition in original condition",
+			"image": "https://i.ibb.co/XZvtFGrg/Bid6-min.png",
+			"currentBidPrice": 2850,
+			"bidsCount": 22,
+			"timeLeft": "2 Days left"
+		},
+		{
+			"id": 6,
+			"title": "Mid-Century Modern Eames Lounge Chair",
+			"description": "Authentic Eames lounge chair, excellent condition",
+			"image": "https://i.ibb.co/QvZx7FJ9/Bid5-min.png",
+			"currentBidPrice": 2850,
+			"bidsCount": 8,
+			"timeLeft": "2 Days left"
+		},
+		{
+			"id": 7,
+			"title": "Banksy Original Screen Print",
+			"description": "Limited edition authenticated Banksy art print",
+			"image": "https://i.ibb.co/vxvQh2Qn/Bid7-min.png",
+			"currentBidPrice": 2850,
+			"bidsCount": 12,
+			"timeLeft": "2 Days left"
+		}
+	]
+}
