@@ -9,7 +9,7 @@ export default function Banner() {
 			}}
 		>
 			<div className="absolute inset-0 bg-black bg-opacity-60 flex items-center justify-start">
-				<div className="max-w-7xl mx-32 px-4 sm:px-6 lg:px-8 text-white">
+				<div className="max-w-7xl mx-4 sm:mx-6 md:mx-16 lg:mx-32 px-4 sm:px-6 lg:px-8 text-white">
 					<h1 className="text-3xl  md:text-4xl font-bold mb-3 leading-tight animate-fade-in">
 						<span className="flex items-center">
 							<Sparkles className="h-6 w-6 text-[#F8CB66] mr-2 animate-pulse-slow" />
